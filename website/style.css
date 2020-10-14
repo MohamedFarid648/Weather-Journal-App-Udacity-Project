@@ -47,7 +47,7 @@ body{
 
 }
 .btnDiv{
-    margin-top: 90px;
+    margin-top: 20px;
 }
 
 /*  Basic Styling To Override Default For Basic HTML Elements */
@@ -73,7 +73,7 @@ input{
 }
 button{
     width: 400px;
-    height: 100px;
+    height: 50px;
     background: #3b4a6b;
     color: #f0d43a;
     font-size: 26px;

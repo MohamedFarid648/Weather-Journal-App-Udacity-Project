@@ -5,7 +5,7 @@
 // Personal API Key for OpenWeatherMap API
 const apiKey = '&APPID=3794968e819429b52119daf3aeb37b53&units=imperial';
 let countryCode = '';//Cairo,eg
-const baseURL = `http://api.openweathermap.org/data/2.5/weather?q=`
+const baseURL = `http://api.openweathermap.org/data/2.5/weather?zip=`
 
 // Event listener to add function to existing HTML DOM element
 
